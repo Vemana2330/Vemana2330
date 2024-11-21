@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vemana Anil Kumar</h1>
 <h3 align="center">A Data Scientist and a Software Engineer with a deep interest in Artificial Intelligence Engineering. I desire to be the harmony between society and Artificial Intelligence.</h3>
 
+- 🔭 I’m currently working on **building end-to-end software applications and leveraging machine learning models to enhance functionality.**
+- 🌱 I’m currently learning **Gen AI.**
+- 💬 Ask me about **TensorFlow, Pytorch, Django, React(Web&Native)**
+- 
 <!--
 **Vemana2330/Vemana2330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
