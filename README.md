@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on **building end-to-end software applications and leveraging machine learning models to enhance functionality.**
 - 🌱 I’m currently learning **Gen AI.**
 - 💬 Ask me about **TensorFlow, Pytorch, Django, React(Web&Native)**
-- 
+
+  [![Vemana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vemana2330)](https://github.com/Vemana2330/github-readme-stats)
+  
 <!--
 **Vemana2330/Vemana2330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
