@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vemana Anil Kumar</h1>
-<h3 align="center">A Data Scientist and a Software Engineer with a deep interest in Artificial Intelligence Engineering. I desire to be the harmony between society and Artificial Intelligence.</h3>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VemanaGowda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VemanaA)
+
 
 - 🔭 I’m currently working on **building end-to-end software applications and leveraging machine learning models to enhance functionality.**
 - 🌱 I’m currently learning **Gen AI.**
 - 💬 Ask me about **TensorFlow, Pytorch, Django, React(Web&Native)**
 
-  [![Vemana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vemana2330)](https://github.com/Vemana2330/github-readme-stats)
+
   
 <!--
 **Vemana2330/Vemana2330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
