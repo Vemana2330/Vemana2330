@@ -71,6 +71,12 @@ These valuable tools and techniques have empowered me to successfully build end-
 | :-: | :-: | 
 | [<img src="https://github.com/user-attachments/assets/57bcacd7-b76d-48ca-9acd-f5b9e4efda95" width="500" height="300"/>](https://github.com/Vemana2330/iChef_Smart_IOT_Kitchen) | [<img src="https://github.com/user-attachments/assets/e9fdbb76-2385-4e9b-9105-89bc4750fd33" width="500" height="300"/>](https://github.com/Vemana2330/VGG_Autocolorization) |
 
+| 🚗 [Dynamic Pricing Simulator](https://github.com/Vemana2330/Dynamic_Pricing_Simulator) |
+| :-: |
+| [<img src="https://github.com/user-attachments/assets/b31a9cc4-e910-4dd7-bce7-94a7edec6afa" width="500" height="300"/>](https://github.com/Vemana2330/Dynamic_Pricing_Simulator) |
+
+
+
 
 
 
