@@ -75,6 +75,9 @@ These valuable tools and techniques have empowered me to successfully build end-
 | :-: | :-: |
 | [<img src="https://github.com/user-attachments/assets/b31a9cc4-e910-4dd7-bce7-94a7edec6afa" width="500" height="300"/>](https://github.com/Vemana2330/Dynamic_Pricing_Simulator) | [<img src="https://github.com/user-attachments/assets/9fc1387b-aa4a-4dd4-8d37-065b8d8fef26" width="500" height="300"/>](https://github.com/Vemana2330/LivingEase_Resident_Management_System) |
 
+| 🚗 [Maternal Health Risk Classifier](https://github.com/Vemana2330/Maternal_Health_Risk_Classifier) |
+| :-: |
+| [<img src="https://github.com/user-attachments/assets/7184c3ed-a773-4cc7-a9ff-9e975796d88b" width="500" height="300"/>](https://github.com/Vemana2330/Maternal_Health_Risk_Classifier) |
 
 
 
