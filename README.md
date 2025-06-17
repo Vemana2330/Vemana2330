@@ -210,9 +210,10 @@ These valuable tools and techniques have empowered me to successfully build end-
 
 <h2 align="center">🧠 My Generative AI Projects</h2>
 
-| 🏥 [ChronicCare.AI – Multi-Agent Health Management System](https://github.com/Vemana2330/ChronicCare.AI-Multi-Agent-Health-Management-System) |
-| :-: |
-| [<img src="https://github.com/user-attachments/assets/52f24a88-a167-4b13-90fc-a5fde3da5241" width="500" height="300"/>](https://github.com/user-attachments/assets/52f24a88-a167-4b13-90fc-a5fde3da5241) |
+
+| 🏥 [ChronicCare.AI – Multi-Agent Health Management System](https://github.com/Vemana2330/ChronicCare.AI-Multi-Agent-Health-Management-System) | 🛰️ [Multi-Agent RAG Research Assistant](https://github.com/Vemana2330/Multi-Agent-RAG-Research-Assistant) |
+| :-: | :-: |
+| [<img src="https://github.com/user-attachments/assets/85c5ae0a-9563-4754-954b-682e0c977eba" width="500" height="300"/>](https://github.com/Vemana2330/ChronicCare.AI-Multi-Agent-Health-Management-System) | [<img src="https://github.com/user-attachments/assets/fc194f11-6a8b-4512-9cd4-e64cf22fba79" width="500" height="300"/>](https://github.com/Vemana2330/Multi-Agent-RAG-Research-Assistant) |
 
 
 
