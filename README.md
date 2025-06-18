@@ -215,11 +215,9 @@ These valuable tools and techniques have empowered me to successfully build end-
 | :-: | :-: |
 | [<img src="https://github.com/user-attachments/assets/85c5ae0a-9563-4754-954b-682e0c977eba" width="500" height="300"/>](https://github.com/Vemana2330/ChronicCare.AI-Multi-Agent-Health-Management-System) | [<img src="https://github.com/user-attachments/assets/fc194f11-6a8b-4512-9cd4-e64cf22fba79" width="500" height="300"/>](https://github.com/Vemana2330/Multi-Agent-RAG-Research-Assistant) |
 
-| 🌀 [RAG LLM Chatbot Powered by Airflow](https://github.com/Vemana2330/RAG-LLM-Chatbot-Powered-by-Airflow) |
-| :-: |
-| [<img src="https://github.com/user-attachments/assets/db979852-e4d9-4217-beaa-19e3922b8867" width="500" height="300"/>](https://github.com/Vemana2330/RAG-LLM-Chatbot-Powered-by-Airflow) |
-
-
+| 🌀 [RAG LLM Chatbot Powered by Airflow](https://github.com/Vemana2330/RAG-LLM-Chatbot-Powered-by-Airflow) | 📄 [Talk To PDFs – LLM Chatbot](https://github.com/Vemana2330/TalkToPdfs-LLM-Chatbot) |
+| :-: | :-: |
+| [<img src="https://github.com/user-attachments/assets/db979852-e4d9-4217-beaa-19e3922b8867" width="500" height="300"/>](https://github.com/Vemana2330/RAG-LLM-Chatbot-Powered-by-Airflow) | [<img src="https://github.com/user-attachments/assets/023dbf29-b51a-4ed1-a2f9-8b1bfd82b758" width="500" height="300"/>](https://github.com/Vemana2330/TalkToPdfs-LLM-Chatbot) |
 
 <h2 align="center">🧠 My Machine Learning Projects</h2>
 
