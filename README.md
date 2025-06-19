@@ -219,6 +219,12 @@ These valuable tools and techniques have empowered me to successfully build end-
 | :-: | :-: |
 | [<img src="https://github.com/user-attachments/assets/db979852-e4d9-4217-beaa-19e3922b8867" width="500" height="300"/>](https://github.com/Vemana2330/RAG-LLM-Chatbot-Powered-by-Airflow) | [<img src="https://github.com/user-attachments/assets/023dbf29-b51a-4ed1-a2f9-8b1bfd82b758" width="500" height="300"/>](https://github.com/Vemana2330/TalkToPdfs-LLM-Chatbot) |
 
+| 💻 [Hackathon Multi Agent Research Application](https://github.com/Vemana2330/Hackathon-Multi-Agent-Research-Application) |
+| :-: |
+| [<img src="https://github.com/user-attachments/assets/87d13192-f472-48bd-9d67-8818164aedd6" width="500" height="300"/>](https://github.com/Vemana2330/Hackathon-Multi-Agent-Research-Application) |
+
+
+
 <h2 align="center">🧠 My Machine Learning Projects</h2>
 
 | 🩺 [Maternal Health Risk Classifier](https://github.com/Vemana2330/Maternal_Health_Risk_Classifier) | 🎨 [VGG Autocolorization](https://github.com/Vemana2330/VGG_Autocolorization) |
@@ -229,7 +235,7 @@ These valuable tools and techniques have empowered me to successfully build end-
 | :-: |
 | [<img src="https://github.com/user-attachments/assets/57bcacd7-b76d-48ca-9acd-f5b9e4efda95" width="500" height="300"/>](https://github.com/Vemana2330/iChef_Smart_IOT_Kitchen) |
 
-<h2 align = "center"> 🖥 My Other Projects </h2>
+<h2 align = "center"> 🖥 My Desktop Application Projects </h2>
 
 | 🚗 [Dynamic Pricing Simulator](https://github.com/Vemana2330/Dynamic_Pricing_Simulator) | 🏣 [LivingEase](https://github.com/Vemana2330/LivingEase_Resident_Management_System) |
 | :-: | :-: |
